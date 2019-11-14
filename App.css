@@ -1,0 +1,14 @@
+.loginpage{
+  width: 100%;
+  padding: 15px;
+  margin : auto;
+  margin-top: 5%;
+  max-width: 330px;
+  height: 100%;
+}
+
+.loginpage h1{
+ text-align: center;
+ 
+}
+  
